@@ -1,0 +1,6 @@
+{
+  "name": "Sentra Creation AI",
+  "description": "Studio AI untuk menganalisis produk dan membuat konten promosi affiliate berupa gambar, video, dan voice-over.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
